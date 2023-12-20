@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Share"
+        android:id="@+id/pitem1"
+        />
+
+    <item
+        android:title="message"
+        android:id="@+id/pitem2"
+        />
+
+    <item
+        android:title="flag"
+        android:id="@+id/pitem3"
+        />
+
+</menu>
